@@ -50,3 +50,9 @@
 .calendar .day.today.selected {
     border: 2px solid lightgray;
 }
+
+.comeBackToToday {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
